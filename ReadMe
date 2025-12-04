@@ -1,4 +1,7 @@
-Group Members 
+Team Name: Team Group 23
+
+Group Members:
+
 Adam
 
 Nicholas Berarducci
@@ -6,5 +9,11 @@ ngb52@pitt.edu
 https://data.wprdc.org/dataset/arrest-data
 For this project, I used the Pittsburgh Police Arrest dataset to compare arrest rates across neighborhoods, so I could get an idea of which areas might be safer.
 
-Miles
+Miles Klingman
+mek346@pitt.edu
+Data Set: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
+This data set convers all fire incidents in the city of Pittsburgh updates to 8/11/25. It includes the type of fire, the address of the fire, neighborhood it occured in, etc.
 
+
+What is this about?
+This is our final project of the University of Pittsburgh's CMPINF 0010 class, where we look at 3 datasets from the WPRDC which are related to one metric to determine the best neighborhood in Pittsburgh.
